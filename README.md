@@ -1,30 +1,30 @@
-# CoreUI Free React Admin Template [![Tweet](https://img.shields.io/twitter/url/http/shields.io.svg?style=social&logo=twitter)](https://twitter.com/intent/tweet?text=CoreUI%20-%20Free%React%204%20Admin%20Template%20&url=https://coreui.io&hashtags=bootstrap,admin,template,dashboard,panel,free,angular,react,vue)
+# TendoTech Free React Admin Template [![Tweet](https://img.shields.io/twitter/url/http/shields.io.svg?style=social&logo=twitter)](https://twitter.com/intent/tweet?text=TendoTech%20-%20Free%React%204%20Admin%20Template%20&url=https://TendoTech.io&hashtags=bootstrap,admin,template,dashboard,panel,free,angular,react,vue)
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=flat-square)](https://opensource.org/licenses/MIT)
-[![@coreui coreui](https://img.shields.io/badge/@coreui%20-coreui-lightgrey.svg?style=flat-square)](https://github.com/coreui/coreui)
-[![npm package][npm-coreui-badge]][npm-coreui]
-[![NPM downloads][npm-coreui-download]][npm-coreui]
-[![@coreui react](https://img.shields.io/badge/@coreui%20-react-lightgrey.svg?style=flat-square)](https://github.com/coreui/react)
-[![npm package][npm-coreui-react-badge]][npm-coreui-react]
-[![NPM downloads][npm-coreui-react-download]][npm-coreui-react]  
+[![@TendoTech TendoTech](https://img.shields.io/badge/@TendoTech%20-TendoTech-lightgrey.svg?style=flat-square)](https://github.com/TendoTech/TendoTech)
+[![npm package][npm-TendoTech-badge]][npm-TendoTech]
+[![NPM downloads][npm-TendoTech-download]][npm-TendoTech]
+[![@TendoTech react](https://img.shields.io/badge/@TendoTech%20-react-lightgrey.svg?style=flat-square)](https://github.com/TendoTech/react)
+[![npm package][npm-TendoTech-react-badge]][npm-TendoTech-react]
+[![NPM downloads][npm-TendoTech-react-download]][npm-TendoTech-react]  
 
-[npm-coreui]: https://www.npmjs.com/package/@coreui/coreui
-[npm-coreui-badge]: https://img.shields.io/npm/v/@coreui/coreui.png?style=flat-square
-[npm-coreui-download]: https://img.shields.io/npm/dm/@coreui/coreui.svg?style=flat-square
-[npm-coreui-react]: https://www.npmjs.com/package/@coreui/react
-[npm-coreui-react-badge]: https://img.shields.io/npm/v/@coreui/react.png?style=flat-square
-[npm-coreui-react-download]: https://img.shields.io/npm/dm/@coreui/react.svg?style=flat-square
-[npm]: https://www.npmjs.com/package/@coreui/react
+[npm-TendoTech]: https://www.npmjs.com/package/@TendoTech/TendoTech
+[npm-TendoTech-badge]: https://img.shields.io/npm/v/@TendoTech/TendoTech.png?style=flat-square
+[npm-TendoTech-download]: https://img.shields.io/npm/dm/@TendoTech/TendoTech.svg?style=flat-square
+[npm-TendoTech-react]: https://www.npmjs.com/package/@TendoTech/react
+[npm-TendoTech-react-badge]: https://img.shields.io/npm/v/@TendoTech/react.png?style=flat-square
+[npm-TendoTech-react-download]: https://img.shields.io/npm/dm/@TendoTech/react.svg?style=flat-square
+[npm]: https://www.npmjs.com/package/@TendoTech/react
 
-[![Bootstrap Admin Template](https://assets.coreui.io/products/coreui-free-bootstrap-admin-template-light-dark.webp)](https://coreui.io/product/free-react-admin-template/)
+[![Bootstrap Admin Template](https://assets.TendoTech.io/products/TendoTech-free-bootstrap-admin-template-light-dark.webp)](https://TendoTech.io/product/free-react-admin-template/)
 
-CoreUI is meant to be the UX game changer. Pure & transparent code is devoid of redundant components, so the app is light enough to offer ultimate user experience. This means mobile devices also, where the navigation is just as easy and intuitive as on a desktop or laptop. The CoreUI Layout API lets you customize your project for almost any device – be it Mobile, Web or WebApp – CoreUI covers them all!
+TendoTech is meant to be the UX game changer. Pure & transparent code is devoid of redundant components, so the app is light enough to offer ultimate user experience. This means mobile devices also, where the navigation is just as easy and intuitive as on a desktop or laptop. The TendoTech Layout API lets you customize your project for almost any device – be it Mobile, Web or WebApp – TendoTech covers them all!
 
 ## Table of Contents
 
 * [Versions](#versions)
-* [CoreUI PRO](#coreui-pro)
-* [CoreUI PRO React Admin Templates](#coreui-pro-react-admin-templates)
+* [TendoTech PRO](#TendoTech-pro)
+* [TendoTech PRO React Admin Templates](#TendoTech-pro-react-admin-templates)
 * [Quick Start](#quick-start)
 * [Installation](#installation)
 * [Basic usage](#basic-usage)
@@ -33,39 +33,39 @@ CoreUI is meant to be the UX game changer. Pure & transparent code is devoid of 
 * [Versioning](#versioning)
 * [Creators](#creators)
 * [Community](#community)
-* [Support CoreUI Development](#support-coreui-development)
+* [Support TendoTech Development](#support-TendoTech-development)
 * [Copyright and License](#copyright-and-license)
 
 ## Versions
 
-* [CoreUI Free Bootstrap Admin Template](https://github.com/coreui/coreui-free-bootstrap-admin-template)
-* [CoreUI Free Angular Admin Template](https://github.com/coreui/coreui-free-angular-admin-template)
-* [CoreUI Free React.js Admin Template (Vite)](https://github.com/coreui/coreui-free-react-admin-template)
-* [CoreUI Free React.js Admin Template (Create React App)](https://github.com/coreui/coreui-free-react-admin-template-cra)
-* [CoreUI Free Vue.js Admin Template](https://github.com/coreui/coreui-free-vue-admin-template)
+* [TendoTech Free Bootstrap Admin Template](https://github.com/TendoTech/TendoTech-free-bootstrap-admin-template)
+* [TendoTech Free Angular Admin Template](https://github.com/TendoTech/TendoTech-free-angular-admin-template)
+* [TendoTech Free React.js Admin Template (Vite)](https://github.com/TendoTech/TendoTech-free-react-admin-template)
+* [TendoTech Free React.js Admin Template (Create React App)](https://github.com/TendoTech/TendoTech-free-react-admin-template-cra)
+* [TendoTech Free Vue.js Admin Template](https://github.com/TendoTech/TendoTech-free-vue-admin-template)
 
-## CoreUI PRO
+## TendoTech PRO
 
-* 💪  [CoreUI PRO Angular Admin Template](https://coreui.io/product/angular-dashboard-template/)
-* 💪  [CoreUI PRO Bootstrap Admin Template](https://coreui.io/product/bootstrap-dashboard-template/)
-* 💪  [CoreUI PRO Next.js Admin Template](https://coreui.io/product/next-js-dashboard-template/)
-* 💪  [CoreUI PRO React Admin Template](https://coreui.io/product/react-dashboard-template/)
-* 💪  [CoreUI PRO Vue Admin Template](https://coreui.io/product/vue-dashboard-template/)
+* 💪  [TendoTech PRO Angular Admin Template](https://TendoTech.io/product/angular-dashboard-template/)
+* 💪  [TendoTech PRO Bootstrap Admin Template](https://TendoTech.io/product/bootstrap-dashboard-template/)
+* 💪  [TendoTech PRO Next.js Admin Template](https://TendoTech.io/product/next-js-dashboard-template/)
+* 💪  [TendoTech PRO React Admin Template](https://TendoTech.io/product/react-dashboard-template/)
+* 💪  [TendoTech PRO Vue Admin Template](https://TendoTech.io/product/vue-dashboard-template/)
 
-## CoreUI PRO React Admin Templates
+## TendoTech PRO React Admin Templates
 
 | Default Theme | Light Theme |
 | --- | --- |
-| [![CoreUI PRO React Admin Template](https://coreui.io/images/templates/coreui_pro_default_light_dark.webp)](https://coreui.io/product/react-dashboard-template/?theme=default) | [![CoreUI PRO React Admin Template](https://coreui.io/images/templates/coreui_pro_light_light_dark.webp)](https://coreui.io/product/react-dashboard-template/?theme=light)|
+| [![TendoTech PRO React Admin Template](https://TendoTech.io/images/templates/TendoTech_pro_default_light_dark.webp)](https://TendoTech.io/product/react-dashboard-template/?theme=default) | [![TendoTech PRO React Admin Template](https://TendoTech.io/images/templates/TendoTech_pro_light_light_dark.webp)](https://TendoTech.io/product/react-dashboard-template/?theme=light)|
 
 | Modern Theme | Bright Theme |
 | --- | --- |
-| [![CoreUI PRO React Admin Template](https://coreui.io/images/templates/coreui_pro_default_v3_light_dark.webp)](https://coreui.io/product/react-dashboard-template/?theme=modern) | [![CoreUI PRO React Admin Template](https://coreui.io/images/templates/coreui_pro_light_v3_light_dark.webp)](https://coreui.io/product/react-dashboard-template/?theme=bright)|
+| [![TendoTech PRO React Admin Template](https://TendoTech.io/images/templates/TendoTech_pro_default_v3_light_dark.webp)](https://TendoTech.io/product/react-dashboard-template/?theme=modern) | [![TendoTech PRO React Admin Template](https://TendoTech.io/images/templates/TendoTech_pro_light_v3_light_dark.webp)](https://TendoTech.io/product/react-dashboard-template/?theme=bright)|
 
 ## Quick Start
 
-- [Download the latest release](https://github.com/coreui/coreui-free-react-admin-template/archive/refs/heads/main.zip)
-- Clone the repo: `git clone https://github.com/coreui/coreui-free-react-admin-template.git`
+- [Download the latest release](https://github.com/TendoTech/TendoTech-free-react-admin-template/archive/refs/heads/main.zip)
+- Clone the repo: `git clone https://github.com/TendoTech/TendoTech-free-react-admin-template.git`
 
 ### Installation
 
@@ -116,7 +116,7 @@ $ yarn build
 Within the download you'll find the following directories and files, logically grouping common assets and providing both compiled and minified variations. You'll see something like this:
 
 ```
-coreui-free-react-admin-template
+TendoTech-free-react-admin-template
 ├── public/          # static files
 │   ├── favicon.ico
 │   └── manifest.json
@@ -142,44 +142,45 @@ coreui-free-react-admin-template
 
 ## Documentation
 
-The documentation for the CoreUI Admin Template is hosted at our website [CoreUI for React](https://coreui.io/react/docs/templates/installation/)
+The documentation for the TendoTech Admin Template is hosted at our website [TendoTech for React](https://TendoTech.io/react/docs/templates/installation/)
 
 ## Versioning
 
-For transparency into our release cycle and in striving to maintain backward compatibility, CoreUI Free Admin Template is maintained under [the Semantic Versioning guidelines](http://semver.org/).
+For transparency into our release cycle and in striving to maintain backward compatibility, TendoTech Free Admin Template is maintained under [the Semantic Versioning guidelines](http://semver.org/).
 
-See [the Releases section of our project](https://github.com/coreui/coreui-free-react-admin-template/releases) for changelogs for each release version.
+See [the Releases section of our project](https://github.com/TendoTech/TendoTech-free-react-admin-template/releases) for changelogs for each release version.
 
 ## Creators
 
-**Łukasz Holeczek**
+**Rodhni Kiggundu**
 
-* <https://twitter.com/lukaszholeczek>
-* <https://github.com/mrholek>
+* <https://x.com/rodhnikiggundu>
+  <https://www.linkedin.com/in/rodhni/>
+  <https://www.instagram.com/rdkiggundu>
+* <https://github.com/ssizza>
 
 **Andrzej Kopański**
 
 * <https://github.com/xidedix>
 
-**CoreUI Team**
+**TendoTech Team**
 
-* <https://twitter.com/core_ui>
-* <https://github.com/coreui>
-* <https://github.com/orgs/coreui/people>
+* <https://tendotech.co.uk/team>
+* 
+* 
 
 ## Community
 
-Get updates on CoreUI's development and chat with the project maintainers and community members.
+Get updates on TendoTech's development and chat with the project maintainers and community members.
 
-- Follow [@core_ui on Twitter](https://twitter.com/core_ui).
-- Read and subscribe to [CoreUI Blog](https://coreui.ui/blog/).
+- Follow [@Tendotech on Twitter](https://tendotech.co.uk).
+- Read and subscribe to [TendoTech Blog](https://TendoTech.co.uk/blog/).
 
-## Support CoreUI Development
+## Support TendoTech Development
 
-CoreUI is an MIT-licensed open source project and is completely free to use. However, the amount of effort needed to maintain and develop new features for the project is not sustainable without proper financial backing. You can support development by buying the [CoreUI PRO](https://coreui.io/pricing/?framework=react&src=github-coreui-free-react-admin-template) or by becoming a sponsor via [Open Collective](https://opencollective.com/coreui/).
+TendoAdmin is an MIT-licensed open source project and is completely free to use. However, the amount of effort needed to maintain and develop new features for the project is not sustainable without proper financial backing. You can support development by buying the [TendoTech PRO](https://#) or by becoming a sponsor via [Open Collective](https://#).
 
 ## Copyright and License
 
-copyright 2024 creativeLabs Łukasz Holeczek.   
+copyright 2024 Tendo Tech LTD Rodhni Kiggundu.   
 
-Code released under [the MIT license](https://github.com/coreui/coreui-free-react-admin-template/blob/main/LICENSE).
